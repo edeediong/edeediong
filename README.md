@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building a feature for executing workflows in Popper [with Podman](https://github.com/getpopper/popper)
+- 🔭 I’m currently working on a feature for executing workflows in Popper [with Podman](https://github.com/getpopper/popper)
 - 🌱 I’m currently learning golang,kubernetes
 - 👯 [Technical Writer](https://www.dev.to/edeediong)
 - 🤔 I’m looking for help with ...
