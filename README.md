@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Currently working on
+- building a feature for executing workflows in [with Podman](https://github.com/getpopper/popper)
+- [Upcoming Technical Writer](https://www.dev.to/edeediong)
+- learning distributed systems
+
+[![Eddie's github stats](https://github-readme-stats.vercel.app/api?username=edeediong&show_icons=true&theme=dracula)](https://github.com/edeediong/github-readme-stats)
