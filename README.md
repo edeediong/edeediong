@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Currently working on
-- building a feature for executing workflows in [with Podman](https://github.com/getpopper/popper)
+- building a feature for executing workflows in Popper [with Podman](https://github.com/getpopper/popper)
 - [Upcoming Technical Writer](https://www.dev.to/edeediong)
 - learning distributed systems
 
