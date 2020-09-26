@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building a feature for executing workflows in Popper [with Podman](https://github.com/getpopper/popper)
 - 🌱 I’m currently learning golang,kubernetes
-- 👯 [Technical Writer](https://www.dev.to/edeediong)
+- 👯 [Technical Writer](https://edeediong.me/)
 - 😄 Pronouns: he/him
 
 [![Eddie's github stats](https://github-readme-stats.vercel.app/api?username=edeediong&show_icons=true&theme=dracula)](https://github.com/edeediong/github-readme-stats)
