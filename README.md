@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m working on migrating IBM Edge Application Manager Documentation to [Open Horizon](https://github.com/open-horizon/open-horizon.github.io)
 - 🔭 I worked on building a feature for executing workflows in Popper [with Podman](https://github.com/getpopper/popper)
 - 🌱 I’m currently learning golang,kubernetes
 - 👯 [Technical Writer](https://edeediong.me/)
