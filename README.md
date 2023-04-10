@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ I worked on the Migration of IBM Edge Application Manager Documentation to [Open Horizon](https://github.com/open-horizon/open-horizon.github.io)
 - 🔭 I built a feature for executing workflows in Popper [with Podman](https://github.com/getpopper/popper)
 - 🌱 I’m currently learning golang,kubernetes
-- 👯 [Technical Writer](https://edeediong.me/)
+- 👯 [Technical Writer](https://blog.edeediong.com/)
 - 📫 Interested in open-source...
 - 😄 Pronouns: he/him
 
